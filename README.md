@@ -15,7 +15,7 @@ products in production. M.Sc. in Software Engineering · University lecturer sin
 ### 🚀 Products I've built (live)
 | Product | What it is | Platforms |
 |---|---|---|
-| [**Core9**](https://k9.retribu.net/) | Multi-agent AI system: 9 specialized agents across multiple LLMs that answer business questions | Web · Laravel · React · LLMs |
+| [**Pulpux**](https://k9.retribu.net/) | Multi-agent AI system: 9 specialized agents across multiple LLMs that answer business questions | Web · Laravel · React · LLMs |
 | [**Mente360**](https://soymente360.com/) | Personal-growth app: daily tasks by personality type, guided hypnosis, music therapy, podcasts and support communities | Web + Mobile |
 | [**AuraDesk**](https://auradesk.pro/) | Booking marketplace for barbershops, spas and salons, with business management tools and WhatsApp Cloud API integration | Web + Mobile |
 | [**BodegaStock**](https://bodegastock.com/) | Inventory, sales and sample tracking for warehouses, distributors and e-commerce, with real-time stock | Web · Laravel · React |
